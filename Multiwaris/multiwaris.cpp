@@ -42,3 +42,10 @@ public:
              << endl;
     }
 };
+
+
+int main(){
+    budi a(12);
+
+    return 0;
+}
